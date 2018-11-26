@@ -31,3 +31,6 @@
 var Import=require('./Counter.js');
 Import.Count(["Ali","Asghar","Karani"])
 Import.Nm("Ali")
+console.log(Import.ck);
+// var events=require('events')
+// events.on('click',()=>{console.log("Ali")})
